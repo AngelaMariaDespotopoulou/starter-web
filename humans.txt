@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anastasia Brown    anbrown@someplace.com     @anasb
 
 # THANKS
 
